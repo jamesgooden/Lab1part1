@@ -19,6 +19,7 @@ class Lab1part1 {
 		System.out.println ("Invalid entry please enter a number greater than 0.");// user validation
 	}
 	else if (userTotal == 222) {
+		//hello
 		System.out.print("True");
 	}
 	else if (userTotal == 333) {
